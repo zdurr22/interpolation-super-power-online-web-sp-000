@@ -7,5 +7,4 @@ color6 = "indigo"
 color7 = "violet"
 display_rainbow = ["R: " + color1, "O: " + color2, "Y: " + color3, "G: " + color4, "B: " + color5, "I: " + color6, "V: " + color7]
 
-
 display_rainbow
